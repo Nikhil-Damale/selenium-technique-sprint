@@ -1,1 +1,0 @@
-# selenium-technique-sprint
